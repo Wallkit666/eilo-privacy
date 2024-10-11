@@ -1,0 +1,1 @@
+export { default } from './section-partners-clients-item.view'

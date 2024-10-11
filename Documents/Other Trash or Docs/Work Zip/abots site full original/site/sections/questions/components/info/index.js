@@ -1,0 +1,1 @@
+export { default } from './sections-questions-info.view'

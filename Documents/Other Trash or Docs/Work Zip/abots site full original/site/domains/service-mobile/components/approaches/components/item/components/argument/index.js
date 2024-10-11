@@ -1,0 +1,1 @@
+export { default } from './service-mobile-advantages-item-arguments.view'

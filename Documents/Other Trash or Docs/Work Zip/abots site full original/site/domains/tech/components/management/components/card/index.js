@@ -1,0 +1,1 @@
+export {default} from './tech-management-card.view'

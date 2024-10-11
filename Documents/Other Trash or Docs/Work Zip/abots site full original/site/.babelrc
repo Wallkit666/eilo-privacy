@@ -1,0 +1,33 @@
+{
+  "presets": [
+    "next/babel"
+  ],
+  "plugins": [
+    [
+      "styled-components",
+      {
+        "ssr": true
+      }
+    ],
+    [
+      "module-resolver",
+      {
+        "root": [
+          "./"
+        ],
+        "alias": {
+          "@components": "./components",
+          "@domains": "./domains",
+          "@sections": "./sections",
+          "@layouts": "./layouts",
+          "@utils": "./utils",
+          "@assets": "./assets",
+          "@hooks": "./hooks",
+          "@store": "./store",
+          "@configs": "./configs",
+          "@libs": "./libs"
+        }
+      }
+    ]
+  ]
+}

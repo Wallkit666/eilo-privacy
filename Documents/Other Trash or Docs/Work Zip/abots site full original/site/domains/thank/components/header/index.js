@@ -1,0 +1,1 @@
+export { default } from './thank-header.view'

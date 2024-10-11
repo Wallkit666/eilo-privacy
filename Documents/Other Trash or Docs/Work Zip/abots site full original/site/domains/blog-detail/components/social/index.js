@@ -1,0 +1,1 @@
+export {default} from './blog-detail-social.view'

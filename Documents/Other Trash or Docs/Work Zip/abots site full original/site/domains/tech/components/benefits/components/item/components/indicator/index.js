@@ -1,0 +1,1 @@
+export { default } from "./tech-benefit-item-indicator.view"

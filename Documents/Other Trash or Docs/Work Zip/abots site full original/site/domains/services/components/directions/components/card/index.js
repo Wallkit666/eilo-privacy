@@ -1,0 +1,1 @@
+export {default} from './services-directions-card.view'

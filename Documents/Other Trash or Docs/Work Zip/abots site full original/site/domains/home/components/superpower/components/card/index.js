@@ -1,0 +1,1 @@
+export {default} from './home-superpower-card.view'
