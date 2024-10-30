@@ -1,1 +1,0 @@
-export { default } from "./service-strategy-header.view"

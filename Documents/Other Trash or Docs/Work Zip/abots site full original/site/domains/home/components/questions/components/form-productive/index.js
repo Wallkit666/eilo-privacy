@@ -1,1 +1,0 @@
-export {default}from './home-questions-form-productive.container'

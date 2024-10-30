@@ -1,1 +1,0 @@
-export {default} from './home-clients-item.view'
